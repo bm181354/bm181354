@@ -2,13 +2,13 @@
 
 <h2> About Me </h2>
 
-- 🚀 *Currently building*: Exciting projects at RVO Health, where tech meets wellness 🌿
+- 🚀 **Currently building**: Exciting projects at RVO Health, where tech meets wellness 🌿
 
-- 🌱 Lifelong learner: Always on the lookout for new technologies that improve lives and create lasting impact. Recently diving deep into AI and mobile development 📱🤖
+- 🌱 **Lifelong learner**: Always on the lookout for new technologies that improve lives and create lasting impact. Recently diving deep into AI and mobile development 📱🤖
 
-- 💡 Ask me about: Anything from Swift to React-Native, Java, C#, or JavaScript—I love chatting about diverse technologies and helping others!
+- 💡 **Ask me about**: Anything from Swift to React-Native, Java, C#, or JavaScript—I love chatting about diverse technologies and helping others!
 
-- 🎉 Fun fact: I’ve got a twin! Double the brains, double the fun 😄
+- 🎉 **Fun fact**: I’ve got a twin! Double the brains, double the fun 😄
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
