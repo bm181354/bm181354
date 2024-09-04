@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
 
-- 🚀 Currently building: Exciting projects at RVO Health, where tech meets wellness 🌿
+- 🚀 *Currently building*: Exciting projects at RVO Health, where tech meets wellness 🌿
 
 - 🌱 Lifelong learner: Always on the lookout for new technologies that improve lives and create lasting impact. Recently diving deep into AI and mobile development 📱🤖
 
