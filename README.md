@@ -10,7 +10,7 @@
 
 - 🎉 **Fun fact**: I’ve got a twin! Double the brains, double the fun 😄
 
-- 🧑‍💻 Personal website: https://bikenm.us
+- 🧑‍💻 [Personal website](https://bikenm.us)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
